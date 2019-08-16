@@ -1,0 +1,67 @@
+Computing integral images
+Building features
+Applying features to training examples
+Selecting best features
+Selected 5171 potential features
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=-1050, polarity=1, [RectangleRegion(1, 2, 17, 3)], [RectangleRegion(1, 5, 17, 3)] with accuracy: 6054.000000 and alpha: 6.575151
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=120, polarity=-1, [RectangleRegion(8, 3, 1, 8)], [RectangleRegion(7, 3, 1, 8)] with accuracy: 5939.000000 and alpha: 7.004581
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=47, polarity=-1, [RectangleRegion(3, 5, 3, 5)], [RectangleRegion(3, 10, 3, 5)] with accuracy: 4878.000000 and alpha: 7.811466
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=16, polarity=-1, [RectangleRegion(2, 1, 11, 4)], [RectangleRegion(2, 5, 11, 4)] with accuracy: 2726.000000 and alpha: 10.094419
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=-80, polarity=1, [RectangleRegion(2, 1, 12, 4)], [RectangleRegion(2, 5, 12, 4)] with accuracy: 4614.000000 and alpha: 14.665004
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=62, polarity=-1, [RectangleRegion(4, 1, 10, 4)], [RectangleRegion(4, 5, 10, 4)] with accuracy: 2813.000000 and alpha: 12.583252
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=-281, polarity=1, [RectangleRegion(3, 1, 7, 5)], [RectangleRegion(3, 6, 7, 5)] with accuracy: 4948.000000 and alpha: 16.550790
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=-271, polarity=1, [RectangleRegion(12, 0, 5, 6), RectangleRegion(7, 6, 5, 6)], [RectangleRegion(7, 0, 5, 6), RectangleRegion(12, 6, 5, 6)] with accuracy: 4740.000000 and alpha: 8.855204
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=-78, polarity=-1, [RectangleRegion(3, 1, 5, 5)], [RectangleRegion(3, 6, 5, 5)] with accuracy: 2469.000000 and alpha: 14.451666
+Trained 1000 classifiers out of 5171
+Trained 2000 classifiers out of 5171
+Trained 3000 classifiers out of 5171
+Trained 4000 classifiers out of 5171
+Trained 5000 classifiers out of 5171
+Chose classifier: Weak Clf (threshold=-68, polarity=1, [RectangleRegion(3, 2, 5, 4)], [RectangleRegion(3, 6, 5, 4)] with accuracy: 4658.000000 and alpha: 14.147373
+Classified 5966 out of 6977 test examples
+Classified 18783 out of 24045 test examples
